@@ -58,6 +58,7 @@ INSTALLED_APPS = [
     "logining",
     "rest_framework",
     "dashboard",
+    'conversation',
 
 
 
